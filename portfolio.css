@@ -1,0 +1,54 @@
+div{
+	margin:0;
+	padding:0;
+}
+
+body{
+	height:100%;
+}
+
+
+div.container{
+	width: 100%;
+	height: 15%;
+	padding:0;
+}
+
+#caja{
+position:absolute;
+top: 15%;
+}
+
+div.pull-right{
+	position:absolute;
+	top: 5%;
+	right: 5%;
+}
+
+div.pull-left{
+	position:absolute;
+	top:1%;
+	left: 5%;
+}
+
+h1.name{
+	font-size: 250%;
+}
+
+.col-xs-8{
+	padding:0;
+	border-radius: 0 20px 20px 0;
+}
+
+.col-xs-4{
+	padding:0;
+}
+
+img{
+	border-radius:20px 0 0 20px;
+	height:100%;
+	width: 100%;
+}
+.abajo{
+	float:left;
+}
