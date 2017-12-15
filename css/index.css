@@ -15,7 +15,7 @@
 	border-radius:5px;
 	margin-left:10%;
 	margin-top:5%;
-	width:200px;
+	width:223px;
 	
 }
 .SubMenu{
@@ -27,5 +27,11 @@ h4{
 	color:gray;
 }
 h1{
+	padding-top:10px;
 	margin:0;
+}
+
+#social{
+	padding-left:32px;
+	padding-bottom:15px;
 }
