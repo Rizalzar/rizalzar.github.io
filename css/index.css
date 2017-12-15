@@ -2,3 +2,28 @@
 	background-color:lightblue;
 	border-radius: 15px;
 }
+
+.pull-left{
+	border-radius:15px;
+	border:2px;
+	border-style: groove;
+}
+
+#Menu{
+	margin:0 auto;
+	border-style: groove;
+	border-radius:5px;
+	margin-left:10%;
+	margin-top:5%;
+}
+.SubMenu{
+	padding-left:30px;
+	padding-bottom:7px;
+}
+h4{
+	margin:0;
+	color:gray;
+}
+h1{
+	margin:0;
+}
