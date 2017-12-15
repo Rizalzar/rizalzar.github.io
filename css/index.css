@@ -1,3 +1,7 @@
+body{
+	background-image: url("img/fondo.jpg");
+}
+
 .col-md-8{
 	background-color:lightblue;
 	border-radius: 15px;
@@ -16,7 +20,6 @@
 	margin-left:10%;
 	margin-top:5%;
 	width:223px;
-	
 }
 .SubMenu{
 	padding-left:30px;
